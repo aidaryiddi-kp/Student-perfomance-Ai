@@ -7,8 +7,8 @@ This project uses Machine Learning to predict student academic performance. It h
 
 Team Members
 - AIDARY IDDY 
-- & EVARINE GODFRAY
-- Supervised by:** [JOHNSON CHRISTOPHER]**
+- & EVARINE GODFREY
+- Supervised by:JOHNSON CHRISTOPHER
 
  Key Features
 - Predict student final grades
